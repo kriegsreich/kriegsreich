@@ -4,6 +4,9 @@
 
 I'm Krieg, a 19-year-old video editor working primarily with Adobe tools.  
 I create and edit content on YouTube, focusing on clean visuals, storytelling, and creative edits.
+<p align="left">
+  <img src="https://i.pinimg.com/originals/dc/3e/cd/dc3ecdab0fa15f3bd29d1e20718648e6.gif" width="600"/> 
+</p>
 
 <p align="left">
    <a href="https://www.youtube.com/channel/UCf8rxdf6dIIIadi1Y-R4KuQ?sub_confirmation=1">
