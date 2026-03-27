@@ -32,7 +32,7 @@ I create and edit content on YouTube, focusing on clean visuals, storytelling, a
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![HYPNOSAES ESPECTRAL 2 X Mad World](https://ytcards.demolab.com/?id=Run4tTw6dsE&title=HYPNOSAES+ESPECTRAL+2+X+Mad+World&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0 "HYPNOSAES ESPECTRAL 2 X Mad World")](https://www.youtube.com/watch?v=Run4tTw6dsE)
-[![2hollis – Poster Boy](https://ytcards.demolab.com/?id=NnxwMjfUUzk&title=2hollis+Poster+Boy&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0 "2hollis – Poster Boy")](https://www.youtube.com/watch?v=NnxwMjfUUzk)
+[![2hollis – Poster Boy](https://ytcards.demolab.com/?id=NnxwMjfUUzk&title=2hollis+Poster+Boy&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0 "2hollis – Poster Boy")]
 <!-- END YOUTUBE-CARDS -->
 
 
