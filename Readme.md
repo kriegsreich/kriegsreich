@@ -52,7 +52,3 @@ I create and edit content on YouTube, focusing on clean visuals, storytelling, a
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kriegsreich&theme=gruvbox&border_radius=4.5)
 
 ---
-
-### 🔗 Links
-
-- 🎬 YouTube: https://www.youtube.com/channel/UCf8rxdf6dIIIadi1Y-R4KuQ
