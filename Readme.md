@@ -40,7 +40,7 @@ I create and edit content on YouTube, focusing on clean visuals, storytelling, a
 
 ### ⚡ About Me
 
-- 🎥 Editor focused on visual storytelling  
+- 🎥 Editor focused on editing 
 - 🧠 Learning and improving every project  
 - 🚀 Building my presence on YouTube  
 - ⚙️ Passionate about clean edits & creative flow  
