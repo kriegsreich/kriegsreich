@@ -1,13 +1,12 @@
-<p align="left">
-  <img src="https://i.pinimg.com/originals/5e/65/1d/5e651ddb2d45f4f6ca418c1a653669cb.gif" width="600"/> 
-</p>
 # 🐉 kriegsreich
 
 **`Video Editor / Digital Creator`**
 
 I'm krieg, a 19-year-old video editor working primarily with Adobe tools.  
 I create and edit content on YouTube, focusing on clean visuals, storytelling, and creative edits.
-
+<p align="left">
+  <img src="https://i.pinimg.com/originals/5e/65/1d/5e651ddb2d45f4f6ca418c1a653669cb.gif" width="600"/> 
+</p>
 <p align="left">
    <a href="https://www.youtube.com/channel/UCf8rxdf6dIIIadi1Y-R4KuQ?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCf8rxdf6dIIIadi1Y-R4KuQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
